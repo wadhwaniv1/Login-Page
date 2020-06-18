@@ -31,7 +31,7 @@
 			
 				
 		  echo "<h1>You have successfully logged in...Going to website...</h1>"; 
-		  header( "refresh:2; url=http://www.gogle.com" );}	
+		  header( "refresh:2; url=http://www.google.com" );}	
 			else {
 				echo "<h1>Password mismatched..Please enter the correct password</h1>";
 			}
